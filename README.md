@@ -1,16 +1,15 @@
-## Hi there 👋
+# Greetings 👋, I am Yugant
 
-<!--
-**yugantshewale/yugantshewale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love to solve problems with code. I am based in Pune, India. <!-- You can find out more about me on my [website](https://diptesh.me).-->
 
-Here are some ideas to get you started:
+## Socials
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Github: [yugantshewale](https://github.com/yugantshewale/)
+- Email: yugantshewale@gmail.com
+- Discord: @yugant_s
+- LinkedIn: https://github.com/yugantshewale
+<!--- Website: https://ignisda.me-->
+
+## My presence in the FOSS community
+
+![IgnisDa GitHub Stats](https://github-stats-extended.vercel.app/api?username=yugantshewale&show_icons=true&locale=en&theme=dark)
