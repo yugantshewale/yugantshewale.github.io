@@ -1,6 +1,6 @@
 # Greetings 👋, I am Yugant
 
-I love to solve problems with code. I am based in Pune, India. <!-- You can find out more about me on my [website](https://diptesh.me).-->
+I love Math and I Love to Code. I am based in Pune, India. <!-- You can find out more about me on my [website](https://diptesh.me).-->
 
 ## Socials
 
