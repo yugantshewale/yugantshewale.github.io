@@ -2,6 +2,11 @@
     display: flex;
     gap: 10rem;
 }
+.navigation > a{
+    text-decoration: none;
+    display: block;
+    color: black;
+}
 .logo{
     font-weight:700;
 }
