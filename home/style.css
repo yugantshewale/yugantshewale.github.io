@@ -1,15 +1,30 @@
+/*Navigation*/
 .navigation{
     display: flex;
+    align-items: center;
     gap: 10rem;
 }
 .navigation > a{
     text-decoration: none;
     display: block;
     color: black;
+    border: 2px solid white;
+}
+.navigation > p {
+    display: inline;
+    padding: 0;
+}
+.navigation > p > a{
+    text-decoration: none;
+    color: black;
+}
+.navigation > a:hover{
+    border-bottom: 2px solid black;
 }
 .logo{
     font-weight:700;
 }
+/*Hero*/
 .hero{
     display: flex;
     flex-direction: column;
@@ -37,4 +52,19 @@ img{
     width: 200px;
     height: auto;
     object-fit: contain;
+}
+/*Education*/
+.education {
+    border: 2px solid black;
+    padding: 1rem;
+    margin-top: 1rem;
+    border-radius: 1rem;
+}
+.education > div > ul {
+    list-style: none;
+}
+.education > div > ul > li {
+    border-bottom: 2px solid black;
+    background-color: snow;
+    padding: 12px;
 }
